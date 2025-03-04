@@ -82,7 +82,7 @@ ol {
 }
 
 .error {
-	color: #FE27122;
+	color: #FE2712;
 }
 
 a {
@@ -91,7 +91,7 @@ a {
 
 a:hover {
 	color: #2E6C85;
-	text-decoration: all;
+	text-decoration: none;
 }
 
 a:visited {
